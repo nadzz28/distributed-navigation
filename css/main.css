@@ -45,3 +45,7 @@ nav a {
   padding-right: 1rem;
   text-decoration: none;
 }
+
+a:hover {
+  color: #fff;
+}
