@@ -31,3 +31,10 @@ header h1 {
 header p {
   font-size: 1.125rem;
 }
+
+nav ul {
+  display: flex;
+  font-size: 1.125rem;
+  justify-content: flex-end;
+  margin: auto;
+}
