@@ -38,3 +38,10 @@ nav ul {
   justify-content: flex-end;
   margin: auto;
 }
+
+nav a {
+  color: #0074d9;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  text-decoration: none;
+}
